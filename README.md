@@ -1,5 +1,4 @@
-# ruby-lab
-Rock, paper, scissors, lizard, Spock game
+# Rock Paper Scissors Spock Lizard game
 
 
 <h2>Project Details</h2>
